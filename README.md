@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LogiDaBear
 - 👀 I’m interested in coding especially with Python
-- 🌱 I’m currently learning all different types of coding languages and computer science field
+- 🌱 I’m currently learning all different types of coding languages and topics regarding the computer science field
 - 📫 How to reach me: lreese2112@gmail.com
 
 <!---
