@@ -1,12 +1,14 @@
 ![Border](<github-header-image (5)-1.png>)
 <!-- <h1 align="center">Howdy! 👋, I'm Logan Reese -->
 
-<h3 align="center"><img src='icons8-us-air-force-48.png' height="30">Tech-driven USAF Veteran turned Software Developer<br> <h4 align="center"><img align='center' src='Python-Dark.svg' alt='python logo' height="30" width="30">Pythonista<img align='center' src='Python-Dark.svg' alt='python logo' height="30" width="30"></h4>
+<h3 align="center">Tech-driven Software Developer
 
 
 🚀 I transitioned to Software Development from previous roles as a Mechanic working on aricraft ✈️, firetrucks 🚒 and armored vehicles
 
 ⚡ Fun fact: **Did you know there are more airplanes in the ocean than there are submarines in the sky?**
+
+✅ Some actual facts: <br>I love all code but I prefer Python <img align='center' src='Python-Dark.svg' alt='python logo' height="30" width="30"> <br><img src='icons8-us-air-force-48.png' height="30"> I am a USAF Veteran and worked on KC-135's <br><br> I enjoy creating art 🎨, horror movies 🎃 and playing video games 🎮
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
