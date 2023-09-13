@@ -1,14 +1,12 @@
 ![Border](<github-header-image (5)-1.png>)
 <!-- <h1 align="center">Howdy! 👋, I'm Logan Reese -->
 
-<h3 align="center">Tech-driven Software Developer
 
 
+
+
+<h3>✅ About me:</h3> I love all code but I prefer Python above all <img align='center' src='Python-Dark.svg' alt='python logo' height="20" width="20"> <br><br><img src='icons8-us-air-force-48.png' height="20" width="20"> I am a USAF Veteran and worked on KC-135's <br><br> I enjoy creating art 🎨, horror movies 🎃 and playing video games 🎮<br><br>
 🚀 I transitioned to Software Development from previous roles as a Mechanic working on aricraft ✈️, firetrucks 🚒 and armored vehicles
-
-⚡ Fun fact: **Did you know there are more airplanes in the ocean than there are submarines in the sky?**
-
-✅ Some actual facts: <br>I love all code but I prefer Python <img align='center' src='Python-Dark.svg' alt='python logo' height="30" width="30"> <br><img src='icons8-us-air-force-48.png' height="30"> I am a USAF Veteran and worked on KC-135's <br><br> I enjoy creating art 🎨, horror movies 🎃 and playing video games 🎮
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logidabear&show_icons=true&locale=en" alt="logidabear" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logidabear&label=Profile%20views&color=0e75b6&style=flat" alt="logidabear" /> </p>
 
-
+<h3>⚡ Fun fact: **Did you know there are more airplanes in the ocean than there are submarines in the sky?**</h3>
 <!---
 LogiDaBear/LogiDaBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
