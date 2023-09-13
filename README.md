@@ -5,7 +5,7 @@
 
 
 
-<h3>✅ About me:</h3> I love all code but I prefer Python <img align='center' src='Python-Dark.svg' alt='python logo' height="20" width="20"> above all  <br><br> I am a USAF Veteran <img src='icons8-us-air-force-48.png' height="20" width="20"> and worked on KC-135's <br><br> I enjoy creating art 🎨, horror movies 🎃 and playing video games 🎮<br><br>
+<h3>✅ About me:</h3> <img align='center' src='Python-Dark.svg' alt='python logo' height="20" width="20">I love all code but I prefer Python  above all  <br> <img src='icons8-us-air-force-48.png' height="20" width="20"> I am a USAF Veteran  and worked on KC-135's <br> I enjoy creating art 🎨, horror movies 🎃 and playing video games 🎮<br>
 🚀 I transitioned to Software Development from previous roles as a Mechanic working on aricraft ✈️, firetrucks 🚒 and armored vehicles
 
 <h3 align="left">Connect with me:</h3>
