@@ -1,11 +1,6 @@
 ![Border](<github-header-image (5)-1.png>)
 <!-- <h1 align="center">Howdy! 👋, I'm Logan Reese -->
-
-
-
-
-
-<h3><img align='center' src='Python-Dark.svg' alt='python logo' height="20" width="20"> About me<img src='icons8-us-air-force-48.png' height="20" width="20"></h3> 
+<h2>Waddup. I am Logan Reese. Most of my code is Secret in government contracts or private. Lo siento</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
